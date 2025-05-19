@@ -1,0 +1,32 @@
+[
+  { "name": "Telefonas Apple iPhone 13 128GB Midnight", "price": "569,99 €" },
+  { "name": "Telefonas Apple iPhone 13 128GB Green", "price": "569,99 €" },
+  { "name": "Telefonas Apple iPhone 13 128GB Red", "price": "569,99 €" },
+  { "name": "Telefonas Apple iPhone 13 128GB Starlight", "price": "569,99 €" },
+  { "name": "Telefonas Apple iPhone 13 128GB Blue", "price": "569,99 €" },
+  { "name": "Telefonas Apple iPhone 13 256GB Rose", "price": "822,13 €" },
+  { "name": "Telefonas Apple iPhone 13 256GB Starlight", "price": "822,13 €" },
+  { "name": "Telefonas Apple iPhone 13 512GB Starlight", "price": "849,59 €" },
+  { "name": "Telefonas Apple iPhone 13 512GB Midnight", "price": "818,12 €" },
+  { "name": "Telefonas Apple iPhone 13 512GB Starlight", "price": "811,86 €" },
+  {
+    "name": "Pre-owned atnaujintas B klasės Apple iPhone 13 128GB juodas",
+    "price": "569,99 €"
+  },
+  { "name": "Telefonas Apple iPhone 13 256GB Blue", "price": "822,13 €" },
+  { "name": "Telefonas Apple iPhone 13 256GB Midnight", "price": "822,13 €" },
+  { "name": "Telefonas Apple iPhone 13 512GB Red", "price": "811,86 €" },
+  { "name": "Telefonas Apple iPhone 13 512GB Rose", "price": "811,86 €" },
+  { "name": "Telefonas Apple iPhone 13 512GB Blue", "price": "811,86 €" },
+  { "name": "Telefonas Apple iPhone 13 256GB Green", "price": "822,13 €" },
+  { "name": "Telefonas Apple iPhone 13 256GB Red", "price": "822,13 €" },
+  {
+    "name": "Pre-owned B grade Apple iPhone 13 128GB Starlight",
+    "price": "569,99 €"
+  },
+  {
+    "name": "Pre-owned A grade Apple iPhone 13 Pro 128GB Green",
+    "price": "718,18 €"
+  },
+  { "name": "Telefonas Apple iPhone 13 512GB Blue", "price": "686,67 €" }
+]

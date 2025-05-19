@@ -1,0 +1,100 @@
+[
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Mobilusis telefonas Hotwav T7, 128 GB, pilka (pažeista pakuotė)",
+    "price": "127,90 €",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 128GB (Storio) (Black)",
+    "price": "999",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 256GB (Storio) (White)",
+    "price": "1,099",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 512GB (Storio) (Gold)",
+    "price": "1,299",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 128GB (Storio) (Red)",
+    "price": "999",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, mėlyna",
+    "price": "1209,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, mėlyna",
+    "price": "920,16 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, juoda",
+    "price": "969,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, balta",
+    "price": "920,16 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, žalia",
+    "price": "1041,86 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, balta",
+    "price": "1277,30 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, rožinė",
+    "price": "1277,30 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, juoda",
+    "price": "934,65 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, rožinė",
+    "price": "857,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, rožinė",
+    "price": "979,95 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, juoda",
+    "price": "1229,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, žalia",
+    "price": "1229,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, rožinė",
+    "price": "1229,00 €",
+    "error": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "iPhone 13 128GB Midnight",
+    "price": "514.96",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Starlight",
+    "price": "525.15",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Blue",
+    "price": "598.65",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Pink",
+    "price": "633.99",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Green",
+    "price": "598.65",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB (PRODUCT)RED",
+    "price": "806.01",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Blue",
+    "price": "806.01",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Midnight",
+    "price": "984.00",
+    "error": false
+  }
+]

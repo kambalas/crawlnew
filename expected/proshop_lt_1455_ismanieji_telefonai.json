@@ -1,0 +1,78 @@
+[
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Mobilus Telefonas Apple iPhone 16 Pro Max 512GB Desert Titanium",
+    "price": "2206,98 €",
+    "error": false
+  },
+  {
+    "name": "Apple iphone 14 128gb midnight mpuf3hx/a",
+    "price": "784,99 €",
+    "error": false
+  },
+  {
+    "name": "Mobilus Telefonas Apple iPhone 16 Pro Max 256GB natūralus titanas",
+    "price": "1949,99 €",
+    "error": false
+  },
+  {
+    "name": "Mobilus Telefonas Apple iPhone 16 128GB White",
+    "price": "1089,99 €",
+    "error": false
+  },
+  {
+    "name": "Mobilus Telefonas Apple iPhone 16 Pro Max 512GB Black Titanium",
+    "price": "2206,98 €",
+    "error": false
+  },
+  {
+    "name": "Mobilus Telefonas Apple iPhone 16 Pro Max 512GB White Titanium",
+    "price": "2206,98 €",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (Product) RED",
+    "price": "699",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB (Product) RED",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "iPhone 12 64GB",
+    "price": "599",
+    "error": false
+  },
+  {
+    "name": "iPhone 12 128GB",
+    "price": "649",
+    "error": false
+  },
+  {
+    "name": "iPhone SE 2022 64GB",
+    "price": "429",
+    "error": false
+  },
+  {
+    "name": "iPhone SE 2022 128GB",
+    "price": "479",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Pro 128GB White Titanium |",
+    "price": "1257.45",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple MOBILE PHONE IPHONE 16 PLUS/256GB WHITE MXWV3",
+    "price": "1230.50",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple MOBILE PHONE IPHONE 16 PLUS/256GB PINK MXY13",
+    "price": "1230.50",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 15 Plus 256GB Green",
+    "price": "1219.18",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 15 Pro 256GB Blue Titanium",
+    "price": "1199.00",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 15 Pro 256GB Black Titanium",
+    "price": "1199.00",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Plus 128GB Pink |",
+    "price": "1160.96",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 256GB Black |",
+    "price": "1153.75",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 256GB White |",
+    "price": "1153.75",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,195 @@
+[
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "litellm.APIConnectionError: 'Message' object has no attribute 'audio'\nTraceback (most recent call last):\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\main.py\", line 1022, in completion\n    model_response = ModelResponse()\n                     ^^^^^^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 1168, in __init__\n    choices = [Choices()]\n               ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 778, in __init__\n    self.message = Message()\n                   ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 636, in __init__\n    del self.audio\n        ^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\pydantic\\main.py\", line 1072, in __delattr__\n    object.__delattr__(self, item)\nAttributeError: 'Message' object has no attribute 'audio'\n"
+  },
+  {
+    "name": "Apple iPhone 16 Pro 512GB Baltas Titanium",
+    "price": "1629 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 1TB Natural Titanium",
+    "price": "1849 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 1TB Juodas Titanium",
+    "price": "1849 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Desert Titanium",
+    "price": "1738 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Baltas Titanium",
+    "price": "1889 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 1TB balto titano",
+    "price": "1849 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Juodas Titanium",
+    "price": "1355 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB Juodas Titanium",
+    "price": "1118 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB Juodas Titanium",
+    "price": "1238 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB Natural Titanium",
+    "price": "1118, 99 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Desert Titanium",
+    "price": "1355 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Juodas Titanium",
+    "price": "1355",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB Juodas Titanium",
+    "price": "1118",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB Juodas Titanium",
+    "price": "1238",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB Natural Titanium",
+    "price": "1118.99",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Desert Titanium",
+    "price": "1355",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Natural Titanium",
+    "price": "1355",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB Desert Titanium",
+    "price": "1118.99",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB Natural Titanium",
+    "price": "1238",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB Desert Titanium",
+    "price": "1238",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB Baltas Titanium",
+    "price": "1118.99",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 512GB Desert Titanium",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 512GB Natural Titanium",
+    "price": "1479",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 512GB Desert Titanium",
+    "price": "1478",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Natural Titanium",
+    "price": "1738",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB Baltas Titanium",
+    "price": "1238",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Baltas Titanium",
+    "price": "1355",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 512GB Natural Titanium",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Black Titanium",
+    "price": "1738",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 1TB Desert Titanium",
+    "price": "1849",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 512GB Black Titanium",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 512GB Black Titanium",
+    "price": "1478",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 512GB Baltas Titanium",
+    "price": "1749",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 512GB Baltas Titanium",
+    "price": "1629",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 1TB Natural Titanium",
+    "price": "1849",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 1TB Juodas Titanium",
+    "price": "1849",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Desert Titanium",
+    "price": "",
+    "error": false
+  }
+]

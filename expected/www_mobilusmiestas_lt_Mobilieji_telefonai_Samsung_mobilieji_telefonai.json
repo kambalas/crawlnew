@@ -1,0 +1,226 @@
+[
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 256GB 12RAM 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 512GB 12GB RAM 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 128GB 12GB RAM 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 256GB 12GB RAM 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 256GB 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 512GB 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 512GB 12GB RAM 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 256GB 12GB RAM 5G Dual Sim",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S24",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S24 FE",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S24 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S24 Ultra",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S25",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S25 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S25 Ultra",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 128GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 256GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 256GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 128GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 Plus 512GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 256GB 12RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 512GB 12RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 128GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 256GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 256GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 512GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 512GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 256GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy Xcover 7 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 256GB 8GB RAM",
+    "price": "538",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 128GB 8GB RAM",
+    "price": "475",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 128GB 4GB RAM LTE",
+    "price": "134",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 5G 128GB 4GB RAM",
+    "price": "175",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 Plus 512GB 5G Dual Sim",
+    "price": "948",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 256GB 5G Dual Sim",
+    "price": "599",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A05s 128GB 4GB RAM LTE",
+    "price": "119",
+    "error": false
+  },
+  {
+    "name": "Apsauginis stikliukas kamerai Samsung Galaxy S24 Ultra",
+    "price": "10",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S24 Ultra",
+    "price": "12",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S24",
+    "price": "12",
+    "error": false
+  },
+  {
+    "name": "Apsauginis ekrano stiklas Full Glue Samsung Galaxy S24 Plus",
+    "price": "12",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'list' object has no attribute 'usage'"
+  },
+  {
+    "index": 4,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'list' object has no attribute 'usage'"
+  }
+]

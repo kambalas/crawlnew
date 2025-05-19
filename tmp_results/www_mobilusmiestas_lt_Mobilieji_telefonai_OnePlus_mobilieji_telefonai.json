@@ -1,0 +1,70 @@
+[
+  {
+    "name": "OnePlus 13 5G 256GB 12GB RAM",
+    "price": "959,00",
+    "error": false
+  },
+  {
+    "name": "OnePlus 13 5G 512GB 16GB RAM",
+    "price": "1.004,00",
+    "error": false
+  },
+  {
+    "name": "Ekrano apsauga 3MK Flexible Glass OnePlus 10T 5G",
+    "price": "12,00",
+    "error": false
+  },
+  {
+    "name": "OnePlus 11 5G 256GB 16GB RAM",
+    "price": "504,00",
+    "error": false
+  },
+  {
+    "name": "OnePlus 12 5G 256GB 12GB RAM",
+    "price": "744,00",
+    "error": false
+  },
+  {
+    "name": "OnePlus 12 5G 512GB 16GB RAM",
+    "price": "784,00",
+    "error": false
+  },
+  {
+    "name": "Ekrano apsauga 3MK Flexible Glass OnePlus 10T 5G",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "OnePlus 11 5G 256GB 16GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "OnePlus 12 5G 256GB 12GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "OnePlus 12 5G 512GB 16GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "OnePlus 13 5G 256GB 12GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "OnePlus 13 5G 512GB 16GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

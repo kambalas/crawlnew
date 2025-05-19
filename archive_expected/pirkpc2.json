@@ -1,0 +1,29 @@
+[
+  { "name": "Apple iPhone 16 128GB White", "price": "999,96 €" },
+  { "name": "Apple iPhone 16 128GB Pink", "price": "999,96 €" },
+  { "name": "Apple iPhone 16 | Teal | 128 GB", "price": "999,96 €" },
+  { "name": "Apple iPhone 16 128GB Ultramarine", "price": "999,96 €" },
+  { "name": "Apple iPhone 16 | Black | 256 GB", "price": "1 132,06 €" },
+  { "name": "Apple iPhone 16 | White | 256 GB", "price": "1 132,06 €" },
+  { "name": "Apple iPhone 16 | Pink | 256 GB", "price": "1 132,06 €" },
+  {
+    "name": "Apple iPhone 16 Pro | Natural Titanium | 128 GB",
+    "price": "1 209,33 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Desert Titanium | 128 GB",
+    "price": "1 247,97 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Natural Titanium | 256 GB",
+    "price": "1 362,63 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Desert Titanium | 256 GB",
+    "price": "1 378,83 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Black Titanium | 256 GB",
+    "price": "1 481,03 €"
+  }
+]

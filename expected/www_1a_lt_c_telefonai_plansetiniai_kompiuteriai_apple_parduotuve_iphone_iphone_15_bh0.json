@@ -1,0 +1,100 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 128 GB, geltona",
+    "price": "769,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, žalia",
+    "price": "1139,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, geltona",
+    "price": "1209,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 128 GB, rožinė",
+    "price": "929,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, žalia",
+    "price": "1139,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, geltona",
+    "price": "1209,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 128 GB, geltona",
+    "price": "769,00 €",
+    "error": false
+  },
+  {
+    "name": "iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 128 GB, rožinė",
+    "price": "929,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 128 GB, juoda",
+    "price": "799,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 256 GB, žalia",
+    "price": "899,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, žalia",
+    "price": "1139,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 128 GB, mėlyna",
+    "price": "799,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 128 GB, geltona",
+    "price": "769,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, geltona",
+    "price": "1209,00 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 256 GB, juoda",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15, 512 GB, rožinė",
+    "price": "",
+    "error": false
+  }
+]

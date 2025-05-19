@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Apple REFURBISHED Grade A | iPhone 13 Pro | Gold | 6.1 \\\" | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 3095 mAh",
+    "price": "3095",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Desert Titanium | 6.3 \\\" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "0",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade A | iPhone 12 | Blue | 6.1 \\\" | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 4 GB | 64 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 2815 mAh",
+    "price": "0",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

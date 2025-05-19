@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 512 GB, sidabro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 1 TB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 512 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 512 GB, juoda",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 128GB Midnight",
+    "price": "592,83 €",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 128GB Midnight",
+    "price": "592,83",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 256 GB, pilka, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, sidabro, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 128 GB, pilka, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, aukso, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 128 GB, mėlyna, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 512 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, mėlyna, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, pilka, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, mėlyna, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, pilka, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 512 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 256 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 128 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 1 TB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 1 TB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 512 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

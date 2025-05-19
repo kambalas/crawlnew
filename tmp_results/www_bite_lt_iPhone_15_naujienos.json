@@ -1,0 +1,38 @@
+[
+  {
+    "name": "iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

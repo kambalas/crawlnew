@@ -1,0 +1,21 @@
+[
+  { "name": "Apple iPhone 15 Pro (1 TB)", "price": "1 412,40 €" },
+  { "name": "Apple iPhone 16e (512 GB)", "price": "924,79 €" },
+  { "name": "Apple iPhone 16e (256 GB)", "price": "718,18 €" },
+  { "name": "Apple iPhone 16e (128 GB)", "price": "602,48 €" },
+  { "name": "Apple iPhone 16 Pro Max (1 TB)", "price": "1 544,49 €" },
+  { "name": "Apple iPhone 16 Pro Max (256 GB)", "price": "1 131,39 €" },
+  { "name": "Apple iPhone 16 Pro Max (512 GB)", "price": "1 337,82 €" },
+  { "name": "Apple iPhone 16 Pro (512 GB)", "price": "1 238,71 €" },
+  { "name": "Apple iPhone 16 Pro (1 TB)", "price": "1 461,78 €" },
+  { "name": "Apple iPhone 16 Plus (256 GB)", "price": "949,56 €" },
+  { "name": "Apple iPhone 16 Pro (256 GB)", "price": "1 040,48 €" },
+  { "name": "Apple iPhone 16 Pro (128 GB)", "price": "932,92 €" },
+  { "name": "Apple iPhone 16 Plus (128 GB)", "price": "850,20 €" },
+  { "name": "Apple iPhone 16 (512 GB)", "price": "1 032,03 €" },
+  { "name": "Apple iPhone 16 (128 GB)", "price": "726,25 €" },
+  { "name": "Apple iPhone 16 Plus (512 GB)", "price": "1 139,59 €" },
+  { "name": "Apple iPhone 15 (256 GB)", "price": "734,69 €" },
+  { "name": "Apple iPhone 15 (128 GB)", "price": "635,54 €" },
+  { "name": "Apple iPhone 13 (512 GB)", "price": "643,80 €" }
+]

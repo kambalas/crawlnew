@@ -1,0 +1,163 @@
+[
+  {
+    "name": "MOBILE PHONE IPHONE 14 PRO/1TB SILVER MQ2P3 APPLE | MQ2P3RU/A",
+    "price": "1218,00 €",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 16 PRO/256GB BLACK TITAN. MYNH3 APPLE | MYNH3QN/A",
+    "price": "1249,35 €",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 16 PRO/256GB NATURAL TIT. MYNL3 APPLE | MYNL3SX/A",
+    "price": "1263,30 €",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 16 PRO/256GB DESERT TITAN MYNK3 APPLE | MYNK3SX/A",
+    "price": "1263,30 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 | Black | 6.1 \" | Super Retina XDR | 2556 x 1179 pixels | A18 | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18 | MYEK3HX/A",
+    "price": "1304,10 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 | White | 6.1 \" | Super Retina XDR display | 2556 x 1179 pixels | A18 | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18 | MYEP3HX/A",
+    "price": "1304,10 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 | Teal | 6.1 \" | Super Retina XDR | 2556 x 1179 pixels | A18 | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18 | MYEU3HX/A",
+    "price": "1304,10 €",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 15 PRO MAX/256GB BLUE MU7A3ZD/A APPLE",
+    "price": "1314,10 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Black Titanium | 6.3 \" | Super Retina XDR | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18 | MYNH3HX/A",
+    "price": "1316,15 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | White Titanium | 6.3 \" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18 | MYNJ3HX/A",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 16 PRO MAX/512GB DESERT TITAN MYX23 APPLE | MYX23SX/A",
+    "price": "1656,45",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 16 PRO MAX/512GB WHITE TITAN. MYX13 APPLE | MYX13SX/A",
+    "price": "1656,45",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Black Titanium | 6.9 \" | Super Retina XDR display with ProMotion | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18 | MYX03HX/A",
+    "price": "1696,75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Natural Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | Apple | A17 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | Nano-SIM and eSIM | 4G | 5G | Main camera resolution 48+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | MYX33HX/A",
+    "price": "1696,75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Desert Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | MYX23HX/A",
+    "price": "1696,75",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 16 PRO/1TB NATURAL TITAN MYNX3 APPLE | MYNX3QN/A",
+    "price": "1789,75",
+    "error": false
+  },
+  {
+    "name": "MOBILE PHONE IPHONE 16 PRO/1TB DESERT TITAN MYNW3 APPLE | MYNW3QN/A",
+    "price": "1789,75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Black Titanium | Apple | MYNR3HX/A",
+    "price": "1844,00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Natural Titanium | Apple | MYNX3HX/A",
+    "price": "1844,00",
+    "error": false
+  },
+  {
+    "index": 5,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 4,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Lenovo Essential V15 G4 AMN | Black | 15.6 \" | IPS | FHD | 1920 x 1080 pixels | Anti-glare | AMD Ryzen 5 | 7520U | 16 GB | Soldered LPDDR5 | 512 GB | AMD Radeon 610M Graphics | Windows 11 Pro | 802.11ax | 5.2 | English | Warranty 24 month(s) | Battery warranty 12 month(s) | 82YU013LMH",
+    "price": "500,00",
+    "error": false
+  },
+  {
+    "name": "Kompiuteris \"eSports Ryzen 5 Pro 4060\"| AMD Ryzen 5 5500 3.6~4.2GHz | A520 lustas | 16GB DDR4-3200MHz (2x8GB) | 1TB SSD PCIe M.2 | GeForce RTX 4060 8GB GDDR6 | 220595_a_4060 | + Dovana RGB mechaninė žaidimų klaviatūra ir žaidimų pelė 7200 DPI | NVIDIA dirbtinio intelekto galia",
+    "price": "649,00",
+    "error": false
+  },
+  {
+    "name": "Windows 11 Home Operacinės sistemos diegimas | Win11Home_diegimas",
+    "price": "150,00",
+    "error": false
+  },
+  {
+    "name": "Digitus | Notebook Charger USB-C, 100W | DA-10072",
+    "price": "32,30",
+    "error": false
+  },
+  {
+    "name": "MEMORY MICRO SDHC 4GB C4/3403450 INTENSO",
+    "price": "7,40",
+    "error": false
+  },
+  {
+    "name": "ADATA SU650 512GB SATA 2.5inch SSD | ASU650SS-512GT-R",
+    "price": "29,30",
+    "error": false
+  },
+  {
+    "name": "G.Skill | Aegis | 16 GB | DDR4 | 3200 MHz | PC/server | Registered No | ECC No | F4-3200C16D-16GIS",
+    "price": "26,70",
+    "error": false
+  },
+  {
+    "name": "G.Skill | 16GB (8GBx2) GB | DDR4 | 2666 MHz | PC/server | Registered No | ECC No | F4-2666C19D-16GNT",
+    "price": "25,55",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG 980 SSD 500GB M.2 NVMe PCI | MZ-V8V500BW",
+    "price": "57,80",
+    "error": false
+  },
+  {
+    "name": "ADATA 128GB Micro SDXC V10 85MB/s + ad. | AUSDX128GUICL10A1-RA1",
+    "price": "12,50",
+    "error": false
+  }
+]

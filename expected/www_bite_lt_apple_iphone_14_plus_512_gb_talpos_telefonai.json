@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Apple iPhone 14 Plus | BITĖ",
+    "price": "1597.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus | BITĖ",
+    "price": "1597.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus išmanusis telefonas 512 GB (PRODUCT)RED",
+    "price": "1597",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus išmanusis telefonas 512 GB Yellow",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

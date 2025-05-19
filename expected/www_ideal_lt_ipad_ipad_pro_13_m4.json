@@ -1,0 +1,70 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi 256GB Standard Glass",
+    "price": "1579",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi 512GB Standard Glass",
+    "price": "1829",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi 1TB Standard Glass",
+    "price": "2309",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi 2TB Standard Glass",
+    "price": "2789",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi + Cellular 256GB Standard Glass",
+    "price": "1829",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi + Cellular 512GB Standard Glass",
+    "price": "2079",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi + Cellular 1TB Standard Glass",
+    "price": "2559",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi + Cellular 2TB Standard Glass",
+    "price": "3039",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi 1TB Nano-Texture Glass",
+    "price": "2439",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi 2TB Nano-Texture Glass",
+    "price": "2919",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi + Cellular 1TB Nano-Texture Glass",
+    "price": "2689",
+    "error": false
+  },
+  {
+    "name": "iPad Pro 13\" Wi-Fi + Cellular 2TB Nano-Texture Glass",
+    "price": "3169",
+    "error": false
+  }
+]

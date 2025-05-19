@@ -1,0 +1,24 @@
+[
+  { "name": "Apple iPhone 16 Plus 128GB Pink", "price": "1204.19 €" },
+  { "name": "Apple iPhone 16 Plus 256GB Ultramarine", "price": "1342.30 €" },
+  {
+    "name": "Apple iPhone 16 Pro 256GB Natural Titanium",
+    "price": "1441.98 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Natural Titan",
+    "price": "1452.79 €"
+  },
+  { "name": "Apple iPhone 16 Pro Max 256GB Black Titan", "price": "1452.79 €" },
+  { "name": "Apple iPhone 16 Pro Max 256GB White Titan", "price": "1452.79 €" },
+  { "name": "Apple iPhone 16 Pro 512GB White Titan", "price": "1625.82 €" },
+  { "name": "Apple iPhone 16 256GB Teal", "price": "1053.49 €" },
+  { "name": "Apple iPhone 16 256GB Ultramarine", "price": "1053.49 €" },
+  { "name": "Apple iPhone 16 256GB Black", "price": "1053.49 €" },
+  { "name": "Apple iPhone 16 Pro Max 256GB White Titan", "price": "1552.99 €" },
+  { "name": "Apple iPhone 16 Plus 256GB Ultramarine", "price": "1199.90 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Pink", "price": "1080.11 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Ultramarine", "price": "1080.11 €" },
+  { "name": "Apple iPhone 16 Plus 256GB Pink", "price": "1199.90 €" },
+  { "name": "Apple iPhone 16 Pro 1TB White Titan", "price": "1865.40 €" }
+]

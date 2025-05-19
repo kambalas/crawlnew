@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Google Pixel 8a 128GB 8RAM 5G bay",
+    "price": "479",
+    "error": false
+  },
+  {
+    "name": "Google Pixel 7 256GB 8RAM 5G white",
+    "price": "468.90",
+    "error": false
+  },
+  {
+    "name": "Google Pixel 7 128GB 8RAM 5G white",
+    "price": "432.48",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 5+ Modelis: TKOGOGSZA0039",
+    "price": "722.12",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 5+ Modelis: GA05841-GB",
+    "price": "735.16",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 3 Modelis: GA05941-GB",
+    "price": "918.79",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 5+ Modelis: GA09566-GB",
+    "price": "714.00",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 3 Modelis: GA05843-GB",
+    "price": "848.00",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 5+ Modelis: GA05936-GB",
+    "price": "935.73",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 5+ Modelis: GA05360-GB",
+    "price": "959.14",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 1 Modelis: GA05227-GB",
+    "price": "922.70",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 5+ Modelis: GA05571-GB",
+    "price": "577.21",
+    "error": false
+  },
+  {
+    "name": "Moki 10 Gamintojas: GOOGLE Likutis: 5+ Modelis: GA04538-GB",
+    "price": "468.90",
+    "error": false
+  }
+]

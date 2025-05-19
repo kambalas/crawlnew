@@ -1,0 +1,100 @@
+[
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Apple iPhone 16e - 512GB",
+    "price": "1119.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e - 256GB",
+    "price": "869.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e - 128GB",
+    "price": "729.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro - 128GB",
+    "price": "1113.75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus - 256GB",
+    "price": "1129.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus - 128GB",
+    "price": "999.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max - 256GB",
+    "price": "1353.75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro - 256GB",
+    "price": "1233.75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 - 128GB",
+    "price": "859.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 - 128 GB",
+    "price": "759.00",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 Plus 128GB Rausvos spalvos Pink, Mobili prekyba",
+    "price": "999.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB, natūralaus titano, 1 nuotrauka",
+    "price": "1113.75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 256GB, juoda spalva, 1 nuotrauka",
+    "price": "869.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 128GB, juoda spalva, 1 nuotrauka",
+    "price": "729.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus 128GB, juodas, 1 nuotrauka",
+    "price": "999.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB, Juodo titano, 1 nuotrauka",
+    "price": "1353.75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB, juodo titano, 1 nuotrauka",
+    "price": "1233.75",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16, ultramarino mėlynas, 1 nuotrauka",
+    "price": "859.00",
+    "error": false
+  }
+]

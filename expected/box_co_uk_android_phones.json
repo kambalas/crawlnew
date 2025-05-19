@@ -1,0 +1,40 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "OPPO Reno 12 5G Mediatek Dimensity 7300 12GB RAM 256GB Storage 6.7\" FHD+ AMOLED Smartphone ColorOS - Black",
+    "price": "399",
+    "error": false
+  },
+  {
+    "name": "OPPO Reno13 5G MediaTek Dimensity 8350 12GB RAM 256GB ROM 6.59\" AMOLED Smartphone - Plume White",
+    "price": "499",
+    "error": false
+  },
+  {
+    "name": "OPPO Reno 12 FS 5G Mediatek D6300 6.67\" FHD+ OLED 12GB RAM 512GB Storage 5G Smartphone ColorOS Black Green",
+    "price": "299",
+    "error": false
+  },
+  {
+    "name": "OPPO Reno13 FS 5G Snapdragon 6 Gen1 12GB RAM 512GB ROM 6.67\" AMOLED Smartphone - Graphite Grey",
+    "price": "399",
+    "error": false
+  },
+  {
+    "name": "OPPO Reno 12 Pro Mediatek Dimensity 7300 Octa Core 6.7\" FHD+ OLED 12GB 512GB 5G ColorOS Black",
+    "price": "499",
+    "error": false
+  },
+  {
+    "name": "OPPO Reno 12 F 5G Mediatek D6300 6.67\"FHD+ OLED 8GB RAM 256GB Storage 5G Smartphone ColorOS Black Green",
+    "price": "249",
+    "error": false
+  }
+]

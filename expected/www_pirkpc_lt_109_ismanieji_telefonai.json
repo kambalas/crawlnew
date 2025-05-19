@@ -1,0 +1,40 @@
+[
+  {
+    "name": "iPhone 13 Pro Max 256GB Sierra Blue (MGD63ZE/A)",
+    "price": "1289",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 Pro Max 128GB Sierra Blue (MGD53ZE/A)",
+    "price": "1179",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 Pro Max 512GB Sierra Blue (MGD73ZE/A)",
+    "price": "1479",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 Pro Max 256GB Graphite (MGD84ZE/A)",
+    "price": "1289",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 Pro Max 128GB Graphite (MGD54ZE/A)",
+    "price": "1179",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 Pro Max 512GB Graphite (MGD74ZE/A)",
+    "price": "1479",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

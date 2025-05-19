@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Samsung Galaxy A26 5G, 6 GB, 128 GB, baltas - Išmanusis telefonas SM-A266BZWBEUE",
+    "price": "29999",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A26 5G, 8 GB, 256 GB, baltas - Išmanusis telefonas SM-A266BZWCEUE",
+    "price": "219",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 LTE, 128 GB, pilkas - Išmanusis telefonas SM-A165FZABEUE",
+    "price": "29999",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy xCover7, 128 GB, juodas - Išmanusis telefonas Prekė - SM-G556BZKDEEE SM-G556BZKDEEE",
+    "price": "12999",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 LTE, 128 GB, juodas - Išmanusis telefonas SM-A165FZKBEUE",
+    "price": "12999",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 5G, 128 GB, juodas - Išmanusis telefonas SM-A166BZKDEUE",
+    "price": "21999",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Samsung Galaxy S24 FE, 256 GB, tamsiai pilkas Prekė-SM-S721BZKGEUE SM-S721BZKGEUE",
+    "price": "77999",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A56 5G, 8 GB, 256 GB, juodas - Išmanusis telefonas SM-A566BZKCEUE",
+    "price": "49999",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 5G, 128 GB, šviesiai pilkas - Išmanusis telefonas SM-A166BZADEUE",
+    "price": "21999",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

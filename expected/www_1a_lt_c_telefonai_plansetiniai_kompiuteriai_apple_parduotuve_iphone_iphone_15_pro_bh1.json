@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 1 TB, mėlyna",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 512 GB, titano, natural titanium",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 1 TB, juoda",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 512 GB, balta",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 512 GB, mėlyna",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 512 GB, juoda",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 128 GB, mėlyna",
+    "price": "1499",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 128 GB, balta",
+    "price": "1499",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 128 GB, juoda",
+    "price": "1499",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 256 GB, balta",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 256 GB, juoda",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 256 GB, mėlyna",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 15 Pro, 256 GB, titano, natural titanium",
+    "price": "1599",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro 256GB Space Black",
+    "price": "1249",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro 512GB Gold",
+    "price": "1449",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro 1TB Silver",
+    "price": "1649",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'list' object has no attribute 'usage'"
+  }
+]

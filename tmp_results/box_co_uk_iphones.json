@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Apple iPhone 13 15.5 cm 6.1 inch Dual SIM iOS 15 5G 128 GB Black",
+    "price": "487.49",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus 6.7\" Dual SIM iOS 18 5G USB Type-C 512 GB Pink",
+    "price": "1067.99",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 6.1\" Dual SIM iOS 18 5G 256 GB White",
+    "price": "700.49",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 6.1\" Dual SIM iOS 18 5G USB Type-C 512 GB Pink",
+    "price": "910.00",
+    "error": false
+  }
+]

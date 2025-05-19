@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Apple iPhone 16 Pro Max | Desert Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS",
+    "price": "1 672,27 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Desert Titanium | 6.3 \" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1 551,38 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 | Black | 6.1 \" | Super Retina XDR | 2556 x 1179 pixels | A18 | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1 285,92 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus | Ultramarine | 6.7 \" | Super Retina XDR | 2796 x 1290 pixels | A18 | Internal RAM 8 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1 052,30 €",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

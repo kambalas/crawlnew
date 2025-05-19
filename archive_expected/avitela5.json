@@ -1,0 +1,197 @@
+[
+  {
+    "name": "Samsung Galaxy A05s, 64 GB, juodas",
+    "code": "SM-A057GZKUEUE",
+    "price": "129.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra, 6,9'', 512 GB, juodas",
+    "code": "SM-S938BZKGEUE",
+    "price": "1 299 €"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra, 512 GB, juodas",
+    "code": "SM-S928BZKHEUE",
+    "price": "1 199 €"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G, 128 GB, juodas",
+    "code": "SM-A556BZKAEUE",
+    "price": "399.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A16 LTE, 128 GB, juodas",
+    "code": "SM-A165FZKBEUE",
+    "price": "129.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G, 128 GB, mėlynas",
+    "code": "SM-A556BLBAEUE",
+    "price": "399.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra, 256 GB, black",
+    "code": "SM-S928BZKGEUE",
+    "price": "999.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra, 6,9'', 512 GB, šviesiai mėlynas",
+    "code": "SM-S938BZBGEUE",
+    "price": "1 299 €"
+  },
+  {
+    "name": "Samsung Galaxy A16 LTE, 128 GB, šviesiai žalias",
+    "code": "SM-A165FLGBEUE",
+    "price": "129.99 €"
+  },
+  {
+    "name": "Samsung Galaxy xCover7, 128 GB, juodas",
+    "code": "SM-G556BZKDEEE",
+    "price": "239.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra, 256 GB, gray",
+    "code": "SM-S928BZTGEUE",
+    "price": "999.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S25, 6,2'', 256 GB, tamsiai mėlynas",
+    "code": "SM-S931BDBGEUE",
+    "price": "839.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra, 6,9'', 1 TB, šviesiai mėlynas",
+    "code": "SM-S938BZBHEUE",
+    "price": "1 499 €"
+  },
+  {
+    "name": "Samsung Galaxy S24, 256 GB, black",
+    "code": "SM-S921BZKGEUE",
+    "price": "649.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A25 5G, 128 GB, geltonas",
+    "code": "SM-A256BZYDEUE",
+    "price": "279.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A25 5G, 128 GB, juodas",
+    "code": "SM-A256BZKDEUE",
+    "price": "279.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S24, 256 GB, gray",
+    "code": "SM-S921BZAGEUE",
+    "price": "649.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S24, 128 GB, black",
+    "code": "SM-S921BZKDEUE",
+    "price": "599.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra, 6,9'', 512 GB, pilkas",
+    "code": "SM-S938BZTGEUE",
+    "price": "1 299 €"
+  },
+  {
+    "name": "Samsung Galaxy S25, 6,2'', 256 GB, sidabro spalvos",
+    "code": "SM-S931BZSGEUE",
+    "price": "839.99 €"
+  },
+  {
+    "name": "Samsung Galaxy Flip6, 256 GB, mėlynas",
+    "code": "SM-F741BLBGEUE",
+    "price": "899.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S24+, 512 GB, gray",
+    "code": "SM-S926BZAGEUE",
+    "price": "979.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G, 128 GB, geltonas",
+    "code": "SM-A556BZYAEUE",
+    "price": "399.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A16 LTE, 128 GB, pilkas",
+    "code": "SM-A165FZABEUE",
+    "price": "129.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S25+, 6,7'', 512 GB, tamsiai mėlynas",
+    "code": "SM-S936BDBGEUE",
+    "price": "1 049 €"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra, 256 GB, violet",
+    "code": "SM-S928BZVGEUE",
+    "price": "999.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra, 256 GB, yellow",
+    "code": "SM-S928BZYGEUE",
+    "price": "999.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A05s, 64 GB, žalias",
+    "code": "SM-A057GLGUEUE",
+    "price": "129.99 €"
+  },
+  {
+    "name": "Samsung Galaxy Flip6, 512 GB, mėlynas",
+    "code": "SM-F741BLBHEUE",
+    "price": "999.99 €"
+  },
+  {
+    "name": "Samsung Galaxy S24, 128 GB, violet",
+    "code": "SM-S921BZVDEUE",
+    "price": "599.99 €"
+  },
+  {
+    "name": "Samsung Galaxy A26 5G, 6 GB, 128 GB, baltas - Išmanusis telefonas",
+    "price": "299.99",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A26 5G, 8 GB, 256 GB, baltas - Išmanusis telefonas",
+    "price": "369.99",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 LTE, 128 GB, pilkas - Išmanusis telefonas",
+    "price": "159.99",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy xCover7, 128 GB, juodas - Išmanusis telefonas",
+    "price": "259.99",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 LTE, 128 GB, juodas - Išmanusis telefonas",
+    "price": "159.99",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 5G, 128 GB, juodas - Išmanusis telefonas",
+    "price": "219.99",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Samsung Galaxy S24 FE, 256 GB, tamsiai pilkas",
+    "price": "779.99",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A56 5G, 8 GB, 256 GB, juodas - Išmanusis telefonas",
+    "price": "529.99",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 5G, 128 GB, šviesiai pilkas - Išmanusis telefonas",
+    "price": "219.99",
+    "error": false
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

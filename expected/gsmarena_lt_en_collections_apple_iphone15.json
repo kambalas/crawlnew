@@ -1,0 +1,120 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Apple iPhone 14 Plus 256GB (Damaged packaging)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB",
+    "price": "719",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB (Damaged Packaging)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 1TB (Ekspozicinė prekė)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB Black",
+    "price": "688.79",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB (Ekspozicinė prekė)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB (Damaged packaging)",
+    "price": "650",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro 256GB (Naudota prekė)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e 128GB",
+    "price": "647.96",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro 128GB (Exhibition item)",
+    "price": "643",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB (Used product)",
+    "price": "630",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB",
+    "price": "587.81",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 128GB (Used product)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max 512GB (Used item)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB (Damaged packaging)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB Midnight",
+    "price": "539",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max 256GB (Used product)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 Mini 256GB (Damaged packaging)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB (Exhibition item)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 128GB (Damaged Packaging)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone SE 2022 128GB (Damaged packaging)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone SE 2022 64GB",
+    "price": "390",
+    "error": false
+  }
+]

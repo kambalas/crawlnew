@@ -1,0 +1,160 @@
+[
+  {
+    "name": "OnePlus 13 5G 256GB 12GB RAM",
+    "price": "959",
+    "error": false
+  },
+  {
+    "name": "OnePlus 13 5G 512GB 16GB RAM",
+    "price": "1004",
+    "error": false
+  },
+  {
+    "name": "OnePlus 11 5G 256GB 16GB RAM",
+    "price": "504",
+    "error": false
+  },
+  {
+    "name": "OnePlus 12 5G 256GB 12GB RAM",
+    "price": "744",
+    "error": false
+  },
+  {
+    "name": "OnePlus 12 5G 512GB 16GB RAM",
+    "price": "784",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 mini dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12/12 Pro dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 Mini dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 11 Pro dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 11 dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone XR dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone Xs Max dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone X/Xs dėklai",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "MacBook Pro 16\" Apple M3 Pro 12C CPU, 18C GPU/18GB/512GB SSD/Space Black/INT",
+    "price": "2 820.43 €",
+    "error": false
+  },
+  {
+    "name": "MacBook Pro 16\" Apple M3 Max 14C CPU, 30C GPU/36GB/1TB SSD/Space Black/INT",
+    "price": "4 349.00 €",
+    "error": false
+  },
+  {
+    "name": "MacBook Pro 16\" Apple M3 Pro 12C CPU, 18C GPU/36GB/512GB SSD/Silver/INT",
+    "price": "3 236.08 €",
+    "error": false
+  },
+  {
+    "name": "MacBook Pro 16\" Apple M3 Pro 12C CPU, 18C GPU/18GB/512GB SSD/Silver/INT",
+    "price": "3 044.46 €",
+    "error": false
+  },
+  {
+    "name": "MacBook Pro 16\" Apple M3 Max 14C CPU, 30C GPU/36GB/1TB SSD/Silver/INT",
+    "price": "4 348.99 €",
+    "error": false
+  },
+  {
+    "name": "MacBook Pro 16\" Apple M3 Pro 12C CPU, 18C GPU/36GB/512GB SSD/Space Black/INT",
+    "price": "3 236.08 €",
+    "error": false
+  },
+  {
+    "name": "MacBook Pro 16\" Apple M3 Max 16C CPU, 40C GPU/48GB/1TB SSD/Silver/INT",
+    "price": "4 949.99 €",
+    "error": false
+  },
+  {
+    "name": "MacBook Pro 16\" Apple M3 Max 16C CPU, 40C GPU/48GB/1TB SSD/Space Black/INT",
+    "price": "4 531.50 €",
+    "error": false
+  }
+]

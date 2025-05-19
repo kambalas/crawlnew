@@ -1,0 +1,51 @@
+[
+  { "name": "Apple iPhone 16 Pro 512GB Desert Titan", "price": "1599.20 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Ultramarine", "price": "1204.19 €" },
+  { "name": "Apple iPhone 16 Plus 512GB Pink", "price": "1609.47 €" },
+  { "name": "Apple iPhone 14 Plus 512GB Yellow", "price": "847.18 €" },
+  {
+    "name": "Apple iPhone 12 Refurbished Grade A 64GB Black",
+    "price": "345.24 €"
+  },
+  {
+    "name": "Apple iPhone 12 Refurbished Grade B 64GB Black",
+    "price": "319.75 €"
+  },
+  {
+    "name": "Apple iPhone 12 Refurbished Grade A 64GB Blue",
+    "price": "328.25 €"
+  },
+  {
+    "name": "Apple iPhone 12 Refurbished Grade C 64GB Blue",
+    "price": "261.15 €"
+  },
+  {
+    "name": "Apple iPhone 13 Refurbished Grade A 128GB Blue",
+    "price": "471.37 €"
+  },
+  {
+    "name": "Apple iPhone 13 Refurbished Grade B 128GB Blue",
+    "price": "433.13 €"
+  },
+  {
+    "name": "Apple iPhone 13 Refurbished Grade C 128GB Blue",
+    "price": "343.97 €"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max Refurbished Grade C 128GB Blue",
+    "price": "566.91 €"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max Refurbished Grade B 128GB Blue",
+    "price": "664.99 €"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max Refurbished Grade A 128GB Blue",
+    "price": "682.83 €"
+  },
+  {
+    "name": "Apple iPhone 13 Pro Refurbished Grade A 128GB Gold",
+    "price": "643.34 €"
+  },
+  { "name": "Apple iPhone 16E 256GB Black", "price": "853.84 €" }
+]

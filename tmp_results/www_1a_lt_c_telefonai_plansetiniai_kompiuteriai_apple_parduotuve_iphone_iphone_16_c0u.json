@@ -1,0 +1,85 @@
+[
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "litellm.APIConnectionError: 'Message' object has no attribute 'audio'\nTraceback (most recent call last):\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\main.py\", line 1022, in completion\n    model_response = ModelResponse()\n                     ^^^^^^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 1168, in __init__\n    choices = [Choices()]\n               ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 778, in __init__\n    self.message = Message()\n                   ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 636, in __init__\n    del self.audio\n        ^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\pydantic\\main.py\", line 1072, in __delattr__\n    object.__delattr__(self, item)\nAttributeError: 'Message' object has no attribute 'audio'\n"
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, mėlyna",
+    "price": "920,16",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, balta",
+    "price": "920,16",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, juoda",
+    "price": "969,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, mėlyna",
+    "price": "1.209,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, balta",
+    "price": "1.277,30",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, rožinė",
+    "price": "1.277,30",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, žalia",
+    "price": "1.041,86",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, juoda",
+    "price": "989,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, žalia",
+    "price": "1.229,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 512 GB, juoda",
+    "price": "1.229,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, žalia",
+    "price": "857,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 128 GB, rožinė",
+    "price": "910,68",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, mėlyna",
+    "price": "969,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, rožinė",
+    "price": "969,00",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 16, 256 GB, balta",
+    "price": "",
+    "error": false
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Midnight",
+    "price": "514.96",
+    "error": false
+  },
+  {
+    "name": "iPhone 14",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone SE 4",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone SE",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Midnight",
+    "price": "514.96",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Starlight",
+    "price": "425.59",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Pink",
+    "price": "514.96",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Green",
+    "price": "425.59",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Blue",
+    "price": "514.96",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Pink Apple",
+    "price": "523.96",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Green Apple",
+    "price": "494.75",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB Blue Apple",
+    "price": "494.75",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Midnight",
+    "price": "666.12",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Starlight",
+    "price": "666.12",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Blue",
+    "price": "666.12",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB (PRODUCT)RED",
+    "price": "666.12",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Pink",
+    "price": "666.12",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Green",
+    "price": "598.75",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Starlight",
+    "price": "598.75",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Blue",
+    "price": "598.75",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB (PRODUCT)RED",
+    "price": "598.75",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Pink Apple",
+    "price": "666.12",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Green Apple",
+    "price": "598.75",
+    "error": false
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'list' object has no attribute 'usage'"
+  }
+]

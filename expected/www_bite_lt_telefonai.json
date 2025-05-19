@@ -1,0 +1,101 @@
+[
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "litellm.APIConnectionError: 'Message' object has no attribute 'audio'\nTraceback (most recent call last):\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\main.py\", line 1022, in completion\n    model_response = ModelResponse()\n                     ^^^^^^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 1168, in __init__\n    choices = [Choices()]\n               ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 778, in __init__\n    self.message = Message()\n                   ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 636, in __init__\n    del self.audio\n        ^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\pydantic\\main.py\", line 1072, in __delattr__\n    object.__delattr__(self, item)\nAttributeError: 'Message' object has no attribute 'audio'\n"
+  },
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Samsung 55\" QLED Q60D 4K QE55Q60DAUXXH išmanusis televizorius",
+    "price": "22,87 € / mėn.",
+    "error": false
+  },
+  {
+    "name": "Samsung 75\" QLED Q77D 4K QE75Q77DATXXH išmanusis televizorius",
+    "price": "47,04 € / mėn.",
+    "error": false
+  },
+  {
+    "name": "Xiaomi 13T Pro išmanusis telefonas (Atidaryta pakuotė)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Xiaomi 13T išmanusis telefonas (Atidaryta pakuotė)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 12 Pro 5G išmanusis telefonas (Atidaryta pakuotė)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 5G išmanusis telefonas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 12 4G išmanusis telefonas (Atidaryta pakuotė)",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (Product)RED",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB (Product)RED",
+    "price": "899",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 Pro 128GB Sierra Blue",
+    "price": "1099",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 Pro 256GB Sierra Blue",
+    "price": "1199",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 128GB Midnight",
+    "price": "899",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 256GB Midnight",
+    "price": "999",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Pro 128GB Deep Purple",
+    "price": "1199",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Pro 256GB Deep Purple",
+    "price": "1299",
+    "error": false
+  }
+]

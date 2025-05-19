@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Google Pixel 9 Pro XL",
+    "price": "979",
+    "error": false
+  },
+  {
+    "name": "Google Pixel 9 Pro",
+    "price": "879",
+    "error": false
+  },
+  {
+    "name": "Google Pixel 9",
+    "price": "709",
+    "error": false
+  },
+  {
+    "name": "Google Pixel 9a",
+    "price": "669",
+    "error": false
+  },
+  {
+    "name": "Google Pixel 8a",
+    "price": "399.01",
+    "error": false
+  }
+]

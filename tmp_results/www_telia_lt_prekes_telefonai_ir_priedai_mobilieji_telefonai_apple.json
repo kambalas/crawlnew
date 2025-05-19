@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Apple iPhone 16e",
+    "price": "609",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro",
+    "price": "1028",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max",
+    "price": "1269",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16",
+    "price": "769",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus",
+    "price": "909",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15",
+    "price": "759",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12",
+    "price": "459",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": "499",
+    "error": false
+  }
+]

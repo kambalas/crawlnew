@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Apple iPhone 15 Pro Max 512GB",
+    "price": "1519,00 €",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 16 128GB",
+    "price": "849,00 €",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 16 256GB",
+    "price": "1069,00 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 256GB (oxid)",
+    "price": "999,00 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB",
+    "price": "1320,00 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB",
+    "price": "1095,00 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB",
+    "price": "1269,00 €",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Apple iPhone 12 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 14 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 14 Plus 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 14 Plus 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 15 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 512GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 16 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple Iphone 16 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 256GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 mini",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12/12 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 Mini",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 11 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 11 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 11",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone XR",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone Xs Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone X/Xs",
+    "price": "",
+    "error": false
+  }
+]

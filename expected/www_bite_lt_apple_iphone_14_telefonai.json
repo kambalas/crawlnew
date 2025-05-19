@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Apple iPhone 14 telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus 512 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus 256 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus 128 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Red / raudoni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Purple / purpuriniai telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Blue / mėlyni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Midnight / juodi telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Yellow / geltoni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Starlight / balti telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus Red / raudoni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus Purple / purpuriniai telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus Blue / mėlyni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Plus Yellow / geltoni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

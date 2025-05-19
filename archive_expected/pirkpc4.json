@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Apple iPhone 16 Pro Max | Desert Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS",
+    "price": "1672.27",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Desert Titanium | 6.3 \" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS",
+    "price": "1551.38",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 | Black | 6.1 \" | Super Retina XDR | 2556 x 1179 pixels | A18 | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS",
+    "price": "1285.92",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus | Ultramarine | 6.7 \" | Super Retina XDR | 2796 x 1290 pixels | A18 | Internal RAM 8 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS",
+    "price": "1052.30",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Black Titanium | 6.3 \" | Super Retina XDR | 2622 x 1206 pixels | Apple | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1551.38",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Natural Titanium | 6.3 \" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1551.38",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Natural Titanium | Apple",
+    "price": "1817.96",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | White Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1418.71",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Natural Titanium | 6.9 \" | Super Retina XDR display with ProMotion | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1418.71",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Desert Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1418.71",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Black Titanium | 6.9 \" | Super Retina XDR display with ProMotion | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1672.27",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Natural Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | Apple | A17 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | Nano-SIM and eSIM | 4G | 5G | Main camera resolution 48+12+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1672.27",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max | Desert Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS",
+    "price": "1672.27",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Desert Titanium | 6.3 \" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB",
+    "price": "1551.38",
+    "error": false
+  },
+  { "name": "Apple iPhone 16 Pro 1TB Black Titanium", "price": "1 896,48 €" },
+  { "name": "Apple iPhone 16 Pro 1TB Desert Titanium", "price": "1 896,48 €" },
+  { "name": "Apple iPhone 16e 128GB Black", "price": "730,76 €" },
+  { "name": "Apple iPhone 16e 128GB White", "price": "730,76 €" },
+  { "name": "Apple iPhone 16e 512GB White", "price": "1 135,11 €" },
+  { "name": "Apple iPhone 16e 256GB Black", "price": "870,34 €" },
+  { "name": "Apple iPhone 16e 256GB White", "price": "870,34 €" },
+  { "name": "Apple iPhone 16e 512GB Black", "price": "1 135,11 €" }
+]

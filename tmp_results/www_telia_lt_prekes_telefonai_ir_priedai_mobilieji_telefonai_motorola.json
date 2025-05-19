@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Motorola Razr 60 Ultra 5G",
+    "price": "1299",
+    "error": false
+  },
+  {
+    "name": "Motorola Razr 50 Ultra",
+    "price": "699",
+    "error": false
+  },
+  {
+    "name": "Motorola Razr 50",
+    "price": "478",
+    "error": false
+  },
+  {
+    "name": "Motorola Moto E14",
+    "price": "109",
+    "error": false
+  },
+  {
+    "name": "Motorola G55",
+    "price": "179",
+    "error": false
+  },
+  {
+    "name": "Motorola G85",
+    "price": "199",
+    "error": false
+  },
+  {
+    "name": "Motorola Edge 50 Neo",
+    "price": "459",
+    "error": false
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Apple REFURBISHED | iPhone 15 Plus | Black | 128GB | Grade C",
+    "price": "783.70",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED | iPhone 15 Plus | Black | 128GB | Grade B",
+    "price": "813.73",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED | iPhone 15 Plus | Black | 128GB | Grade A",
+    "price": "843.76",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED | iPhone 14 | Blue | 128GB | Grade B",
+    "price": "608.05",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED | iPhone 14 Pro | Space Black | 128GB | Grade B",
+    "price": "773.20",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED | iPhone 14 Pro | Silver | 128GB | Grade A",
+    "price": "798.72",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED | iPhone 14 Pro Max | Deep Purple | 128GB | Grade B",
+    "price": "855.77",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED | iPhone 12 | Blue | 6.1 | 4GB RAM | 64GB | Grade C",
+    "price": "287.27",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade C | iPhone 13 | Blue | 6.1 | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 4 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 3240 mAh",
+    "price": "372.11",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade C | iPhone 13 Pro Max | Blue | 6.7 | Super Retina XDR OLED | 2778 x 1284 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 4352 mAh",
+    "price": "602.98",
+    "error": false
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Apple iPhone 13 128GB (PRODUCT)RED",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 128GB (PRODUCT)RED",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 256GB (PRODUCT)RED",
+    "price": "899",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 256GB (PRODUCT)RED",
+    "price": "899",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 64GB Black",
+    "price": "629",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 128GB White",
+    "price": "679",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 128GB Black",
+    "price": "679",
+    "error": false
+  },
+  {
+    "index": 4,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 5,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 6,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "litellm.APIConnectionError: 'Message' object has no attribute 'audio'\nTraceback (most recent call last):\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\main.py\", line 1022, in completion\n    model_response = ModelResponse()\n                     ^^^^^^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 1168, in __init__\n    choices = [Choices()]\n               ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 778, in __init__\n    self.message = Message()\n                   ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 636, in __init__\n    del self.audio\n        ^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\pydantic\\main.py\", line 1072, in __delattr__\n    object.__delattr__(self, item)\nAttributeError: 'Message' object has no attribute 'audio'\n"
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "litellm.APIConnectionError: 'Message' object has no attribute 'audio'\nTraceback (most recent call last):\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\main.py\", line 1022, in completion\n    model_response = ModelResponse()\n                     ^^^^^^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 1168, in __init__\n    choices = [Choices()]\n               ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 778, in __init__\n    self.message = Message()\n                   ^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\litellm\\types\\utils.py\", line 636, in __init__\n    del self.audio\n        ^^^^^^^^^^\n  File \"C:\\Miniconda\\Lib\\site-packages\\pydantic\\main.py\", line 1072, in __delattr__\n    object.__delattr__(self, item)\nAttributeError: 'Message' object has no attribute 'audio'\n"
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 14 Pro 1TB Deep Purple",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 14 Pro 512GB Silver",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 14 512GB RED",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 14 Pro Max 512GB Deep Purple",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 14 128GB Yellow",
+    "price": "758,00",
+    "error": false
+  },
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "iPhone 15 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone SE 4",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone SE",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 128GB (PRODUCT)RED Apple",
+    "price": "736.43",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 128GB Yellow Apple",
+    "price": "805.35",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 128GB Midnight Apple",
+    "price": "918.39",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 128GB Blue Apple",
+    "price": "918.39",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 128GB Purple Apple",
+    "price": "1051.18",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 256GB (PRODUCT)RED Apple",
+    "price": "852.66",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 256GB Midnight Apple",
+    "price": "1014.65",
+    "error": false
+  },
+  {
+    "name": "iPhone 14 Plus 256GB Purple Apple",
+    "price": "1086.00",
+    "error": false
+  },
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'list' object has no attribute 'usage'"
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'list' object has no attribute 'usage'"
+  }
+]

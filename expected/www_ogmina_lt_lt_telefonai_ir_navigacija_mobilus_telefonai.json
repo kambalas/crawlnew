@@ -1,0 +1,33 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "iPhone 13 Pro 128GB Sierra Blue",
+    "price": "999",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 256GB Pink",
+    "price": "849",
+    "error": false
+  },
+  {
+    "name": "iPhone SE 64GB (2022) Midnight",
+    "price": "479",
+    "error": false
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

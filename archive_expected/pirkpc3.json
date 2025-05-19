@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Apple iPhone 16 Pro | Black Titanium | 128 GB",
+    "price": "1 233,01 €"
+  },
+  { "name": "Apple iPhone 16 | White | 512 GB", "price": "1 370,66 €" },
+  { "name": "Apple iPhone 16 | Teal | 512 GB", "price": "1 370,66 €" },
+  { "name": "Apple iPhone 16 Plus | White | 512 GB", "price": "1 521,47 €" },
+  {
+    "name": "Apple iPhone 16 Pro | White Titanium | 128 GB",
+    "price": "1 209,33 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Black Titanium | 256 GB",
+    "price": "1 362,63 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro | White Titanium | 256 GB",
+    "price": "1 322,75 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Black Titanium | 512 GB",
+    "price": "1 632,39 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro | White Titanium | 512 GB",
+    "price": "1 612,45 €"
+  },
+  {
+    "name": "Apple iPhone 16 Plus | White | 6.7 \" | Super Retina XDR | 2796 x 1290 pixels | A18 | Internal RAM 8 GB | 512 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1436,72",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | White Titanium | 6.3 \" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1165,71",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | Black Titanium | 6.3 \" | Super Retina XDR | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1297,82",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro | White Titanium | 6.3 \" | Super Retina XDR display with ProMotion | 2622 x 1206 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1297,82",
+    "error": false
+  }
+]

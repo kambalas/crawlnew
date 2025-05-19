@@ -1,0 +1,35 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Telefonas Apple iPhone 15 Pro Max 256GB Natural Titanium",
+    "price": "1959490485318",
+    "error": false
+  },
+  {
+    "name": "Telefonas Apple iPhone 15 128GB Black",
+    "price": "1959490359824",
+    "error": false
+  },
+  {
+    "name": "Telefonas Apple iPhone 15 Pro 256GB Black Titanium",
+    "price": "1959490192100",
+    "error": false
+  },
+  {
+    "name": "Telefonas Apple iPhone 15 Pro 256GB Natural Titanium",
+    "price": "1959490195798",
+    "error": false
+  },
+  {
+    "name": "Telefonas Apple iPhone 15 Pro Max 256GB Black Titanium",
+    "price": "1959490481730",
+    "error": false
+  }
+]

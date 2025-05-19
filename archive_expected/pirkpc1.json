@@ -1,0 +1,29 @@
+[
+  { "name": "Apple iPhone 15 | Black | 6.1\" | 128 GB", "price": "913,96 €" },
+  { "name": "Apple iPhone 15 512GB Yellow", "price": "1 298,38 €" },
+  { "name": "Apple iPhone 14 | Purple | 6.1\" | 128 GB", "price": "801,79 €" },
+  { "name": "Apple iPhone 15 512GB Green", "price": "1 298,38 €" },
+  { "name": "Apple iPhone 15 Plus 512GB Yellow", "price": "1 449,18 €" },
+  { "name": "Apple iPhone 15 256GB Green", "price": "1 044,82 €" },
+  {
+    "name": "Apple iPhone 15 Plus | Black | 6.7\" | 128 GB",
+    "price": "1 064,76 €"
+  },
+  { "name": "Apple iPhone 16 | Black | 6.1\" | 128 GB", "price": "999,96 €" },
+  {
+    "name": "Apple iPhone 16 | Ultramarine | 6.1\" | 256 GB",
+    "price": "1 118,35 €"
+  },
+  {
+    "name": "Apple iPhone 16 Plus | Black | 6.7\" | 128 GB",
+    "price": "1 138,30 €"
+  },
+  {
+    "name": "Apple iPhone 16 Plus | Pink | 6.7\" | 128 GB",
+    "price": "1 138,30 €"
+  },
+  {
+    "name": "Apple iPhone 16 Plus | Ultramarine | 6.7\" | 256 GB",
+    "price": "1 269,16 €"
+  }
+]

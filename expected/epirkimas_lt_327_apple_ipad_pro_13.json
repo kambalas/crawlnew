@@ -1,0 +1,80 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi 512GB (2024) with Standard Glass Space Black",
+    "price": "1729.00",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 2TB (2024) with Standard Glass, Silver - planšetinis kompiuteris kaina",
+    "price": "3039",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 2TB (2024) with Standard Glass, Space Black - planšetinis kompiuteris kaina",
+    "price": "3039",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 2TB (2024) with Nano-texture Glass, Space Silver - planšetinis kompiuteris kaina",
+    "price": "3169",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 2TB (2024) with Nano-texture Glass, Silver - planšetinis kompiuteris kaina",
+    "price": "3169",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 1TB (2024) with Nano-texture Glass, Silver - planšetinis kompiuteris kaina",
+    "price": "2689",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 1TB (2024) with Standard Glass, Space Black - planšetinis kompiuteris kaina",
+    "price": "2689",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 1TB (2024) with Standard Glass, Silver - planšetinis kompiuteris kaina",
+    "price": "2599",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 512GB (2024) with Standard Glass, Space Black - planšetinis kompiuteris kaina",
+    "price": "1997.99",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 512GB (2024) with Standard Glass, Silver - planšetinis kompiuteris kaina",
+    "price": "2079",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 512GB (2024) with Standard Glass, Silver - planšetinis kompiuteris kaina",
+    "price": "1729",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 512GB (2024) with Standard Glass, Space Black - planšetinis kompiuteris kaina",
+    "price": "1729",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 256GB (2024) with Standard Glass, Silver - planšetinis kompiuteris kaina",
+    "price": "1470.08",
+    "error": false
+  },
+  {
+    "name": "Apple iPad Pro 13\" M4 Wi-Fi + Cellular 256GB (2024) with Standard Glass, Space Black - planšetinis kompiuteris kaina",
+    "price": "1499",
+    "error": false
+  }
+]

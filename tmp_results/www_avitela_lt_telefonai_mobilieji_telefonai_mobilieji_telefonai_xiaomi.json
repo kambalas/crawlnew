@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Xiaomi Redmi Note 14, 6 GB, 128 GB, juodas – Išmanusis telefonas",
+    "price": "179.99",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 14, 6 GB, 128 GB, mėlynas – Išmanusis telefonas",
+    "price": "199.99",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 14 Pro 5G, juodas – Išmanusis telefonas",
+    "price": "299.99",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 14 5G, 6 GB, 128 GB, žalias – Išmanusis telefonas",
+    "price": "229.99",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 14 Pro, 8 GB, 256 GB, violetinis - Išmanusis telefonas",
+    "price": "299.99",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 14 Pro, 8 GB, 256 GB, mėlynas - Išmanusis telefonas",
+    "price": "299.99",
+    "error": false
+  },
+  {
+    "index": 1,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Xiaomi Redmi Note 14 Pro 5G, juodas – Išmanusis telefonas",
+    "price": "21999",
+    "error": false
+  },
+  {
+    "name": "Xiaomi Redmi Note 14 5G, 6 GB, 128 GB, žalias – Išmanusis telefonas",
+    "price": "22999",
+    "error": false
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Xiaomi telefonai",
+    "price": "",
+    "error": false
+  }
+]

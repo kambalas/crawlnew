@@ -1,0 +1,231 @@
+[
+  {
+    "index": 3,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "litellm.APIError: APIError: DeepseekException - peer closed connection without sending complete message body (incomplete chunked read)"
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 128GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 Plus 512GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 256GB 12RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 512GB 12RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 128GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 256GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 256GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 512GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 512GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 256GB 12GB RAM 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy Xcover 7 128GB",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A05s 128GB 4GB RAM LTE",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 128GB 4GB RAM LTE",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy A16 5G 128GB 4GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A26 128GB 6GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A26 256GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A36 128GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A36 256GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A55 128GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A55 256GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A56 128GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A56 256GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy M35 128GB 6GB RAM 5G",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy M55 128GB 8GB RAM 5G",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY S23 256GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 128GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 256GB 5G Dual Sim",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 256GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 FE 128GB 8GB RAM",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 256GB 12GB RAM 5G Dual Sim",
+    "price": "1025.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S24 128GB 5G Dual Sim",
+    "price": "538.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy M55 128GB 8GB RAM 5G",
+    "price": "277.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Ultra 512GB 12GB RAM 5G Dual Sim",
+    "price": "1159.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 256GB 12GB RAM 5G Dual Sim",
+    "price": "748.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 128GB 12GB RAM 5G Dual Sim",
+    "price": "674.00",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A56 256GB 8GB RAM",
+    "price": "372.00",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A36 256GB 8GB RAM",
+    "price": "314.00",
+    "error": false
+  },
+  {
+    "name": "SAMSUNG GALAXY A26 128GB 6GB RAM",
+    "price": "239.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy Xcover 7 128GB",
+    "price": "246.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 256GB 5G Dual Sim",
+    "price": "875.00",
+    "error": false
+  },
+  {
+    "name": "Samsung Galaxy S25 Plus 512GB 5G Dual Sim",
+    "price": "959.00",
+    "error": false
+  }
+]

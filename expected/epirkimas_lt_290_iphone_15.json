@@ -1,0 +1,87 @@
+[
+  {
+    "name": "iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15",
+    "price": "184.24 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 512GB Green",
+    "price": "1309.99 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 256GB Green",
+    "price": "1070.29 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB Green",
+    "price": "947.30 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 512GB Pink",
+    "price": "1309.99 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 256GB Pink",
+    "price": "1070.29 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB Pink",
+    "price": "947.30 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 512GB Blue",
+    "price": "1309.99 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 256GB Blue",
+    "price": "1070.29 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB Blue",
+    "price": "947.30 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 512GB Black",
+    "price": "1309.99 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 256GB Black",
+    "price": "1070.29 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB Black",
+    "price": "947.30 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 512GB Yellow",
+    "price": "1309.99 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 256GB Yellow",
+    "price": "1108.99 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128GB Yellow",
+    "price": "947.30 €",
+    "error": false
+  }
+]

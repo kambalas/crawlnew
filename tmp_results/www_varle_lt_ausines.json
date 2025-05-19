@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Apple EarPods (USB-C)",
+    "price": "16.99",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods 4",
+    "price": "139",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods (3 kartos) su Lightning Charging Case",
+    "price": "179.99",
+    "error": false
+  },
+  {
+    "name": "Belaidės ausinės Apple AirPods 4 su ANC",
+    "price": "184.99",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods Pro (2 kartos) su \"MagSafe\" dėklu (USB-C), baltos spalvos",
+    "price": "269.99",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods Max - Blue",
+    "price": "548.18",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods Max - Starlight",
+    "price": "548.18",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods Max - Oranžinis",
+    "price": "548.18",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods Max - Violetinė",
+    "price": "548.18",
+    "error": false
+  },
+  {
+    "name": "Ausinės Apple AirPods Max - Midnight",
+    "price": "548.18",
+    "error": false
+  }
+]

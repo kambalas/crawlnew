@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Apple iPhone 16e 128 gb skaidri",
+    "price": "609",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 128 gb juoda",
+    "price": "1 028",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max 256 gb juoda",
+    "price": "1 269",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 128 gb juoda",
+    "price": "769",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus 128 gb juoda",
+    "price": "909",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15",
+    "price": "739",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 128 gb juoda",
+    "price": "499",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 64 gb juoda",
+    "price": "459",
+    "error": false
+  }
+]

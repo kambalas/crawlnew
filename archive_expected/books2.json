@@ -1,0 +1,40 @@
+[
+  { "name": "In Her Wake", "price": "£12.84" },
+  { "name": "How Music Works", "price": "£37.32" },
+  {
+    "name": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+    "price": "£30.52"
+  },
+  { "name": "Chase Me (Paris Nights #2)", "price": "£25.27" },
+  { "name": "Black Dust", "price": "£34.53" },
+  { "name": "Birdsong: A Story in Pictures", "price": "£54.64" },
+  {
+    "name": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+    "price": "£22.50"
+  },
+  { "name": "Aladdin and His Wonderful Lamp", "price": "£53.13" },
+  {
+    "name": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+    "price": "£40.30"
+  },
+  { "name": "Wall and Piece", "price": "£44.18" },
+  {
+    "name": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "price": "£17.66"
+  },
+  {
+    "name": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "price": "£31.05"
+  },
+  { "name": "The Elephant Tree", "price": "£23.82" },
+  { "name": "The Bear and the Piano", "price": "£36.89" },
+  { "name": "Sophie's World", "price": "£15.94" },
+  { "name": "Penny Maybe", "price": "£33.29" },
+  {
+    "name": "Maude (1883-1993):She Grew Up with the country",
+    "price": "£18.02"
+  },
+  { "name": "In a Dark, Dark Wood", "price": "£19.63" },
+  { "name": "Behind Closed Doors", "price": "£52.22" },
+  { "name": "You can't bury them all: Poems", "price": "£33.63" }
+]

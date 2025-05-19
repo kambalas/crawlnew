@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Motorola Razr 60 Ultra 5G 512 gb žalia",
+    "price": "1299",
+    "error": false
+  },
+  {
+    "name": "Motorola Razr 50 Ultra 512 gb žalia",
+    "price": "1098",
+    "error": false
+  },
+  {
+    "name": "Motorola Razr 50 256 gb pilka",
+    "price": "829",
+    "error": false
+  },
+  {
+    "name": "Motorola Moto E14 64 gb pilka",
+    "price": "109",
+    "error": false
+  },
+  {
+    "name": "Motorola G55 256 gb pilka",
+    "price": "239",
+    "error": false
+  },
+  {
+    "name": "Motorola G85 256 gb mėlyna",
+    "price": "329",
+    "error": false
+  },
+  {
+    "name": "Motorola Edge 50 Neo 512 gb pilka",
+    "price": "459",
+    "error": false
+  }
+]

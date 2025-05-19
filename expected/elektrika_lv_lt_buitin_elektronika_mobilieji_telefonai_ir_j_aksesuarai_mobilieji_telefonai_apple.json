@@ -1,0 +1,128 @@
+[
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "index": 4,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Apple REFURBISHED Grade C | iPhone 12 | Blue | 6.1 \\\" | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 4 GB | 64 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 2815 mAh",
+    "price": "261.15",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade A | iPhone 13 | Blue | 6.1 \\\" | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 4 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 3240 mAh",
+    "price": "471.37",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade B | iPhone 13 | Blue | 6.1 \\\" | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 4 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "433.13",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade C | iPhone 13 | Blue | 6.1 \\\" | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 4 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 3240 mAh",
+    "price": "343.97",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade C | iPhone 13 Pro Max | Blue | 6.7 \\\" | Super Retina XDR OLED | 2778 x 1284 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 4352 mAh",
+    "price": "566.91",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade B | Blue | 6.7 \\\" | Super Retina XDR OLED | 2778 x 1284 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 4352 mAh",
+    "price": "664.99",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade A | Blue | 6.7 \\\" | Super Retina XDR OLED | 2778 x 1284 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 4352 mAh",
+    "price": "682.83",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 (128GB) - Blue",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 (256GB) - Black",
+    "price": "899",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 12 (64GB) - White",
+    "price": "699",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone SE (2022) - Red",
+    "price": "429",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade B | Blue | 6.7 \\\" | Super Retina XDR OLED | 2778 x 1284 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 4352 mAh | iPhone 13 Pro Max Apple # 13PMBLUE128B",
+    "price": "566.91",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade A | Blue | 6.7 \\\" | Super Retina XDR OLED | 2778 x 1284 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 4352 mAh | iPhone 13 Pro Max Apple # 13PMBLUE128A",
+    "price": "664.99",
+    "error": false
+  },
+  {
+    "name": "Apple REFURBISHED Grade A | iPhone 13 Pro | Gold | 6.1 \\\" | Super Retina XDR OLED | 2532 x 1170 pixels | Internal RAM 6 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 12+12+12 MP | Secondary camera resolution 12 MP | iOS | 18 | 3095 mAh Apple # 13PGOLD128A",
+    "price": "643.34",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16E/128GB WHITE MD1R4 APPLE",
+    "price": "720.74",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16E/256GB WHITE MD1W4 APPLE",
+    "price": "853.84",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Black Titanium | Apple",
+    "price": "1920.25",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro 1TB Desert Titanium | Apple",
+    "price": "1920.25",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e | Black | 6 \\\" | Super Retina XDR | 2532 x 1170 pixels | Apple A18 | Internal RAM 8 GB | 128 GB | Dual SIM | 4G | 5G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18 Apple # MD1Q4HX/A",
+    "price": "770.20",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e 128GB White | Apple",
+    "price": "770.20",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e 512GB White | Apple",
+    "price": "1198.08",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e 256GB Black | Apple",
+    "price": "919.31",
+    "error": false
+  }
+]

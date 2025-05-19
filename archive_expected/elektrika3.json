@@ -1,0 +1,27 @@
+[
+  { "name": "Apple iPhone 16 Pro 256GB Desert Titanium", "price": "1459.74 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Teal", "price": "1080.11 €" },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Black Titanium",
+    "price": "1568.21 €"
+  },
+  { "name": "Apple iPhone 16 Pro 128GB Black Titanium", "price": "1304.28 €" },
+  {
+    "name": "Apple iPhone 16 Pro Max 256GB Desert Titan",
+    "price": "1568.21 €"
+  },
+  { "name": "Apple iPhone 16 512GB White", "price": "1449.42 €" },
+  { "name": "Apple iPhone 16 512GB Teal", "price": "1449.42 €" },
+  { "name": "Apple iPhone 16 Plus 512GB White", "price": "1609.47 €" },
+  { "name": "Apple iPhone 16 Pro 128GB White Titanium", "price": "1278.96 €" },
+  { "name": "Apple iPhone 16 Pro 256GB Black Titanium", "price": "1441.98 €" },
+  { "name": "Apple iPhone 16 Pro 256GB White Titanium", "price": "1399.98 €" },
+  { "name": "Apple iPhone 16 Pro 512GB Black Titanium", "price": "1726.92 €" },
+  { "name": "Apple iPhone 16 Pro 512GB White Titanium", "price": "1705.91 €" },
+  {
+    "name": "Apple iPhone 16 Pro Max 512GB White Titanium",
+    "price": "1854.70 €"
+  },
+  { "name": "Apple iPhone 16 512GB Black", "price": "1449.42 €" },
+  { "name": "Apple iPhone 16 Pro Max 1TB Natural Titan", "price": "2025.12 €" }
+]

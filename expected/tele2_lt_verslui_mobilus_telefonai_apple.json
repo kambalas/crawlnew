@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Apple iPhone 16e (512 GB)",
+    "price": "924,79",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e (256 GB)",
+    "price": "718,18",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16e (128 GB)",
+    "price": "602,48",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max (1 TB)",
+    "price": "1544,49",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max (256 GB)",
+    "price": "1131,39",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max (512 GB)",
+    "price": "1337,82",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro (512 GB)",
+    "price": "1238,71",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro (1 TB)",
+    "price": "1461,78",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus (256 GB)",
+    "price": "949,56",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro (256 GB)",
+    "price": "1040,48",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Pro (128 GB)",
+    "price": "932,92",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus (128 GB)",
+    "price": "850,20",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 (512 GB)",
+    "price": "1032,03",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 (128 GB)",
+    "price": "726,25",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16 Plus (512 GB)",
+    "price": "1139,59",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 (128 GB)",
+    "price": "635,54",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 (512 GB)",
+    "price": "643,80",
+    "error": false
+  }
+]

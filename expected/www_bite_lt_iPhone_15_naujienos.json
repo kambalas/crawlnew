@@ -1,0 +1,257 @@
+[
+  {
+    "name": "iPhone 15",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Samsung 55\" QLED Q60D 4K QE55Q60DAUXXH išmanusis televizorius",
+    "price": "22,87 €",
+    "error": false
+  },
+  {
+    "name": "Samsung 75\" QLED Q77D 4K QE75Q77DATXXH išmanusis televizorius",
+    "price": "47,04 €",
+    "error": false
+  },
+  {
+    "name": "Hisense 100\" 4K QLED 100E7NQ išmanusis televizorius",
+    "price": "88,70 €",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 išmanusis telefonas 128GB",
+    "price": "759",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus išmanusis telefonas 256GB",
+    "price": "999",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max išmanusis telefonas 512GB",
+    "price": "1645",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 | BITĖ 1",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 | BITĖ 2",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus | BITĖ 1",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus | BITĖ 2",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max | BITĖ 1",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max | BITĖ 2",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 5G 128GB Blue | BITĖ 1",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 5G 128GB Blue | BITĖ 2",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro 5G 128GB Black Titanium | BITĖ 1",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro 5G 128GB Black Titanium | BITĖ 2",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 512 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 256 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 128 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus 512 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus 256 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus 128 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro 128 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro 256 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro 512 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 256 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max 512 GB talpos telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pink / rožiniai telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Yellow / geltoni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Green / žali telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Blue / mėlyni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Black / juodi telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus Pink / rožiniai telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus Yellow / geltoni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus Green / žali telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus Blue / mėlyni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus Black / juodi telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Black Titanium / juodi telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Blue Titanium / mėlyni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Natural Titanium telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro White Titanium / balti telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max Black Titanium / juodi telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max Blue Titanium / mėlyni telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max Natural Titanium telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max White Titanium / balti telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Plus telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 15 Pro Max telefonai",
+    "price": "",
+    "error": false
+  }
+]

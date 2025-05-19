@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Pro Max | Desert Titanium | 6.9 \" | Super Retina XDR | 2868 x 1320 pixels | A18 Pro | Internal RAM 8 GB | 256 GB | Dual SIM | 4G | Main camera resolution 48+12 MP | Secondary camera resolution 12 MP | iOS | 18",
+    "price": "1511.90",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

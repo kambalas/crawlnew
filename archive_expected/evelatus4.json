@@ -1,0 +1,18 @@
+[
+  { "name": "Apple iPhone 13 512GB Starlight", "price": "789.60 €" },
+  { "name": "Apple iPhone 13 512GB Blue", "price": "789.60 €" },
+  { "name": "Apple iPhone 13 128GB Midnight", "price": "519.00 €" },
+  { "name": "Apple iPhone 12 5G 128GB Green", "price": "497.40 €" },
+  { "name": "Apple iPhone 12 128GB Purple", "price": "497.40 €" },
+  { "name": "Apple iPhone 12 64GB Black", "price": "469.00 €" },
+  { "name": "Apple iPhone 12 64GB Green", "price": "459.00 €" },
+  {
+    "name": "Apple iPhone 12 Pro 512GB Silver Refurbished Grade C",
+    "price": "452.72 €"
+  },
+  { "name": "Apple iPhone 11 64GB White", "price": "383.05 €" },
+  {
+    "name": "Apple iPhone XS Max 64GB Space Grey Refurbished Grade C",
+    "price": "212.45 €"
+  }
+]

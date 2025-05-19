@@ -1,0 +1,23 @@
+[
+  { "name": "Apple iPhone 16 Pro 1TB Black Titanium", "price": "1 991.16 €" },
+  { "name": "Apple iPhone 16 Pro 256GB Titanium", "price": "1 388.10 €" },
+  { "name": "Apple iPhone 16 Pro 128GB Black Titanium", "price": "1 269.11 €" },
+  { "name": "Apple iPhone 16 Plus 512GB White", "price": "1 559.21 €" },
+  { "name": "Apple iPhone 16 Plus 256GB White", "price": "1 322.29 €" },
+  { "name": "Apple iPhone 16 Plus 128GB White", "price": "1 190.02 €" },
+  { "name": "Apple iPhone 16 Plus 256GB Ultramarine", "price": "1 384.85 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Ultramarine", "price": "1 264.97 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Teal", "price": "1 190.02 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Pink", "price": "1 190.02 €" },
+  { "name": "Apple iPhone 16 Plus 256GB Pink", "price": "1 322.29 €" },
+  { "name": "Apple iPhone 16 Plus 512GB Pink", "price": "1 559.21 €" },
+  { "name": "Apple iPhone 16 Plus 512GB Black", "price": "1 559.21 €" },
+  { "name": "Apple iPhone 16 Plus 256GB Black", "price": "1 322.29 €" },
+  { "name": "Apple iPhone 16 Plus 128GB Black", "price": "1 264.97 €" },
+  {
+    "name": "Apple iPhone 15 Pro Max 256GB Natural Titanium",
+    "price": "1 441.91 €"
+  },
+  { "name": "Apple iPhone 15 128GB Blue", "price": "847.25 €" },
+  { "name": "Apple iPhone 13 128GB Starlight", "price": "618.30 €" }
+]

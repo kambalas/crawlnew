@@ -1,0 +1,60 @@
+[
+  {
+    "name": "iPhone 16 telefonai",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 16",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Pro Max, 1 TB, black titanium Prekė-MYX43HX/A",
+    "price": "1879",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16, 128 GB, rožinis - Išmanusis telefonas",
+    "price": "85999",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Pro Max, 1 TB, natural titanium Prekė-MYX73HX/A",
+    "price": "1879",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Pro Max, 512 GB, natural titanium Prekė-MYX33HX/A",
+    "price": "1649",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16, 128 GB, žalsvai mėlyna - Išmanusis telefonas",
+    "price": "85999",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 16, 256 GB, rožinis - Išmanusis telefonas",
+    "price": "98999",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Pro Max, 1 TB, desert titanium Prekė-MYX63HX/A",
+    "price": "1879",
+    "error": false
+  },
+  {
+    "name": "Išmanusis telefonas Apple iPhone 16 Pro, 1 TB, black titanium Prekė-MYNR3HX/A",
+    "price": "1759",
+    "error": false
+  },
+  {
+    "index": 2,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Poco M7 Pro 5G - 8/256GB",
+    "price": "209,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco F7 Ultra 5G - 12/256GB",
+    "price": "709,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco F7 Ultra 5G - 16/512GB",
+    "price": "769,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco F7 Pro 5G - 12/512GB",
+    "price": "579,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco F7 Pro 5G - 12/256GB",
+    "price": "519,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco X7 Pro 5G - 8/256GB",
+    "price": "309,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco X7 Pro 5G - 12/512GB",
+    "price": "359,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco X7 5G - 12/512GB",
+    "price": "279,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco X7 5G - 8/256GB",
+    "price": "229,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco C75 - 8/256GB",
+    "price": "119,00 €",
+    "error": false
+  },
+  {
+    "name": "Poco X6 Pro 5G - 8/256 GB",
+    "price": "283,75 €",
+    "error": false
+  },
+  {
+    "name": "Poco M7 Pro 5G - 12/256GB",
+    "price": "",
+    "error": false
+  }
+]

@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 128GB Midnight",
+    "price": "592,83",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 256 GB, pilka, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, sidabro, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 128 GB, mėlyna, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, aukso, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 128 GB, pilka, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, mėlyna, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, pilka, atnaujintas",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 512 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 256 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, pilka",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 128 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 128 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 512 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 256 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro Max, 128 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Mobilusis telefonas Apple iPhone 13 Pro, 1 TB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (PRODUCT)RED",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (Starlight)",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (Midnight)",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (Blue)",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (Pink)",
+    "price": "799",
+    "error": false
+  },
+  {
+    "name": "iPhone 13 128GB (Red)",
+    "price": "799",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'list' object has no attribute 'usage'"
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 1 TB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 512 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 256 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 512GB Green",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 256GB Green",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 128GB Green",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13, 128 GB, raudona",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13, 128 GB, raudona",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 128 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 256 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 512 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 128 GB, sidabro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 128 GB, juoda",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 256 GB, juoda",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 512 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro Max, 1 TB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 512 GB, sidabro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 128 GB, sidabro",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 256 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 128 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 1 TB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 512 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 256 GB, mėlyna",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 128 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 512 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 256 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 128 GB, aukso",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 1 TB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 512 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 13 Pro, 256 GB, žalia",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "512 GB Galinė kamera: 3 x 12 MP",
+    "price": "512,00",
+    "error": false
+  },
+  {
+    "name": "6.7 \" Ekrano dydis: 6.7 \\\" Ekrano raiška: 1284 x 2778 Operatyvioji atmintis (RAM): 6 GB Atminties talpa: 512 GB Galinė kamera: 3 x 12 MP",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "6.1 \\\" Ekrano dydis: 6.1 \\\" Ekrano raiška: 1170 x 2532 Operatyvioji atmintis (RAM): 6 GB Atminties talpa: 1 TB Galinė kamera: 3 x 12 MP",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "6.1 \\\" Ekrano dydis: 6.1 \\\" Ekrano raiška: 1170 x 2532 Operatyvioji atmintis (RAM): 6 GB Atminties talpa: 512 GB Galinė kamera: 3 x 12 MP",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "6.1 \\\" Ekrano dydis: 6.1 \\\" Ekrano raiška: 1170 x 2532 Operatyvioji atmintis (RAM): 6 GB Atminties talpa: 256 GB Galinė kamera: 3 x 12 MP",
+    "price": "",
+    "error": false
+  },
+  {
+    "name": "6.7 \\\" Ekrano dydis: 6.7 \\\" Ekrano raiška: 1284 x 2778 Operatyvioji atmintis (RAM): 6 GB Atminties talpa: 512 GB Galinė kamera: 3 x 12 MP",
+    "price": "",
+    "error": false
+  }
+]

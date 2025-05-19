@@ -1,0 +1,27 @@
+[
+  { "name": "Apple iPhone 16e", "price": "€609" },
+  {
+    "name": "Apple iPhone 16 Pro",
+    "price": "1 028 €"
+  },
+  {
+    "name": "Apple iPhone 16 Pro Max",
+    "price": "1 269 €"
+  },
+  {
+    "name": "Apple iPhone 16 Plus",
+    "price": "909 €"
+  },
+  {
+    "name": "Apple iPhone 15",
+    "price": "739 €"
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": "499 €"
+  },
+  {
+    "name": "Apple iPhone 12",
+    "price": "459 €"
+  }
+]

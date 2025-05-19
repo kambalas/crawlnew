@@ -1,0 +1,100 @@
+[
+  {
+    "name": "iPhone 14",
+    "price": "",
+    "error": false
+  },
+  {
+    "index": 0,
+    "error": true,
+    "tags": [
+      "error"
+    ],
+    "content": "'str' object has no attribute 'choices'"
+  },
+  {
+    "name": "Apple iPhone 14 128GB Yellow",
+    "price": "851.89",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB Yellow",
+    "price": "974.88",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 512GB Starlight",
+    "price": "1370.62",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB Starlight",
+    "price": "974.88",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB Starlight",
+    "price": "994.43",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 512GB Purple",
+    "price": "1370.62",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB Purple",
+    "price": "974.88",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB Purple",
+    "price": "851.89",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 512GB Midnight",
+    "price": "1370.62",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB Midnight",
+    "price": "974.88",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB Midnight",
+    "price": "851.89",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 512GB Blue",
+    "price": "1214.59",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB Blue",
+    "price": "974.88",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB Blue",
+    "price": "851.89",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 512GB (Product) Red",
+    "price": "1370.62",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 256GB (Product) Red kaina",
+    "price": "974.88",
+    "error": false
+  },
+  {
+    "name": "Apple iPhone 14 128GB (Product) Red",
+    "price": "988.38",
+    "error": false
+  }
+]
