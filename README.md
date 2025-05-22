@@ -1,3 +1,5 @@
+### Implemented by Ugnius Motiejunas for bachelor thesis
+
 ## 📦 LLM-based Web Scraping tool
 
 This tool is designed for automated extraction of structured data (e.g., product names and prices) from e-commerce websites using Large Language Models (LLMs) and the `Crawl4AI` library. It supports asynchronous multiprocessing, enabling the processing of hundreds of pages simultaneously.
